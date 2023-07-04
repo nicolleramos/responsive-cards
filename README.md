@@ -1,4 +1,4 @@
-# responsive artist cards! 📖🖇️
+# responsive artist cards! 📖
 
 Este site foi criado como parte de um projeto de estudos menor, onde eu explorei as propriedades em CSS.
 Como inspiração, cada card é dedicado a um artista renascentista que eu admiro muito: Michelangelo, Sandro Botticelli e Michelangelo Merisi,
