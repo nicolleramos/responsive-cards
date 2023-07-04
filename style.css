@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('kitties.jpg');
+    font-family: 'Sorts Mill Goudy', serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 5em;
+}
+
+.card {
+    background: #ffffff;
+    width: 270px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.card-image {
+    height: 170px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.card-1 {
+    background-image: url('aphrodite.jpg');
+}
+
+.card-2 {
+    background-image: url('lucifer.jpg');
+}
+
+.card-3 {
+    background-image: url('Caravaggio_Medusa.png');
+}
+
+.card h3 {
+    padding: 10px;
+}
+
+.card p {
+    padding: 10px;
+}
+
+.card a {
+    background-color: rgb(27, 27, 27);
+    color: #ffffff;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+    text-decoration: none;
+    border-radius: 10px 10px
+}
+
+.card:hover {
+    background-color: rgb(27, 27, 27);
+    color: #ffffff;
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: all 1s ease;
+}
+
