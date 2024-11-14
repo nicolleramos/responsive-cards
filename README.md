@@ -1,1 +1,3 @@
-# responsive-artist-cards
+# Artistas Renascentistas 🏛️
+
+Aula de Programação Web
